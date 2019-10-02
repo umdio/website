@@ -6,7 +6,7 @@ html, body {
 }
 
 .is-danger {
-    background: #d6192f;
+    background: #d6192f !important;
 }
 
 .splash-img {
