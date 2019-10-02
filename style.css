@@ -14,3 +14,30 @@ html, body {
     width: 300px;
     height: 300px;
 }
+
+.icon {
+    text-align: center;
+    font-size: 5rem;
+    width: 100%;
+    margin: 4rem 0px 3rem 0px;
+}
+
+body {
+    background: #d6192f;
+}
+
+.hero {
+    background: white;
+}
+
+#cards {
+    background-image: linear-gradient(bottom, #d6192f 50%, #FFFFFF 50%);
+    background-image: -o-linear-gradient(bottom, #d6192f 50%, #FFFFFF 50%);
+    background-image: -moz-linear-gradient(bottom, #d6192f 50%, #FFFFFF 50%);
+    background-image: -webkit-linear-gradient(bottom, #d6192f 50%, #FFFFFF 50%);
+    background-image: -ms-linear-gradient(bottom, #d6192f 50%, #FFFFFF 50%);
+}
+
+#cards {
+    text-align: center;
+}
